@@ -1,0 +1,7 @@
+{
+  "name": "Resume Analyzer & Job Matcher",
+  "description": "An end-to-end intelligent Resume Analyzer & Job Matcher with dynamic NLP skill extraction, ATS audit, semantic TF-IDF scoring, and interactive career dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
